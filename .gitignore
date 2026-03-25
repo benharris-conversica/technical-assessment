@@ -1,0 +1,8 @@
+.env
+*.pyc
+__pycache__/
+*.db
+!data/assessment.db
+.venv/
+venv/
+.env.local

@@ -1,0 +1,8 @@
+# Technical assessment dependencies
+# Install with: pip install -r requirements.txt
+
+openai>=1.0.0
+python-dotenv>=1.0.0
+
+# Standard library sqlite3 is built-in; duckdb optional alternative:
+# duckdb>=0.9.0
